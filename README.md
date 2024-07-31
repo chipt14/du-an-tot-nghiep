@@ -18,7 +18,7 @@ chạy lần luợt các lệnh sau khi pull về:
 # Hướng dẫn cài đặt
 B1: Clone dự án về máy.
 
-`git clone https://github.com/cuzinxyz/duantotnghiep.git`
+`git clone https://github.com/chipt14/du-an-tot-nghiep.git`
 
 hoặc sử dụng **Github Desktop** để clone về máy tính.
 
